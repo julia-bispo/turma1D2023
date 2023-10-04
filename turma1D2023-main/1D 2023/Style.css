@@ -1,0 +1,24 @@
+ Body{
+    background: #CCCCCC;
+ }
+
+ h1{
+    text-align: center;
+    color: blue;
+    height: 100px;
+    border: 10px solid black;
+    padding: 20px;
+ }
+ p{
+    text-align: center;
+ }
+
+ em strong{
+    color: #FF0000;
+ }
+ #missao{
+    font-size: 20px;
+ }
+ #banner{
+    width: 100%;
+ }
